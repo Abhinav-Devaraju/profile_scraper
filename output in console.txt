@@ -1,0 +1,181 @@
+****************************************************************************************************************************************************
+
+
+PROPER FORMATTING OF JSON DATA:
+
+
+---Full Name---
+
+Sakib Ali
+
+---Frist Name---
+
+Sakib
+
+---Last Name---
+
+Ali
+
+---Industry---
+
+IT Services & Consulting
+
+---Annual salary---
+
+ 9.50 Lacs (expects:  10.0 Lacs)
+
+---Current company---
+
+Girikon Solutions Pvt Ltd
+
+---Education---
+
+BCA Ch Charan Singh University (CCSU), Meerut, 2020
+
+---Skills---
+
+['Express', 'CSS', 'jQuery', 'Ajax', 'HTML', 'Node.js', 'React.js', 'Javascript', 'Laravel', 'PHP', 'MySQL', 'Django', 'SOAP', 'GIT', 'Rest', 'API', 'Python', 'JIRA', 'Mern Stack', 'Python Development', 'Fullstack Development', 'LAMP']
+
+---Work Summary---
+
+
+Work Summary: Work summary
+Industry: IT Services & Consulting
+Department: Engineering - Software & QA
+Role: Full Stack Developer
+Technical Skills: I am a fullstackdeveloper working with LAMP Stack (Laravel Framework) and Node.js, Express.js, React.js (MERNStack).
+
+
+---Work Experince---
+
+Company Name: Girikon Solutions Pvt Ltd
+Job Title: Fullstack Developer
+Tenure: Apr '23 till date ( 10m )
+Description: • Developing front end website architecture. • Designing user interactions on web pages. • Developing back-end website applications. • Creating servers and databases for functionality. • Ensuring cross-platform optimization for mobile phones. • Ensuring responsiveness of applications. • Working alongside graphic designers for web design features. • Seeing through a project from conception to finished product. • Designing and developing APIs. • Meeting both technical and consumer needs. • Staying abreast of developments in web applications and programming languages.
+
+Company Name: Leadingdots Solutions Pvt Ltd
+Job Title: Web Developer
+Tenure: May '22 till Mar '23 ( 10m )
+Description: Designed and developed web applications across multiple APIs, third-party integrations and databases. Passionate and hardworking with penchant for developing customized interfaces that factor in unique demands for accessibility, reachability and security.
+
+Company Name: Apponward Technologies
+Job Title: Senior Php Developer
+Tenure: Sep '19 till May '22 ( 2y 8m )
+Description: I have good in hand experience in php language and laravel I am working in backend and i use php,python,django,laravel Skills : PHP, JQUERY, MYSQL, AJAX, LARAVEL, PAYMENT GATEWAYS, HTML, CSS, SOAP AND REST API'S, ANGULAR,
+JAVASCRIPT
+, CI,PYTHON,DJANGO,DJANGO REST FRAMEWORK my recent completed projects : https://www.urwagon.com/fly/public/ -> project to ship packages internationally (in laravel) https://flowmixx.com/ -> music website (backend in laravel and frontend in angular https://www.oxygentimes.com/ -> projects for comparing oxygen Concentrator  
+
+
+----IT Skills---
+
+Skill: Laravel
+Version: 9
+Last Used: 2023
+Experience: 4y
+
+Skill: Node
+.js
+Version: 18.14
+Last Used: 2023
+Experience: 2y
+
+Skill: PHP
+Version: 8
+Last Used: 2023
+Experience: 4y
+
+
+---Other Details---
+
+
+        Date of Birth: 8 Nov 1998,
+        Gender: Male,
+        Marital Status: Single/unmarried,
+        Category: OBC - Creamy,
+        Physically Challenged: No
+
+
+
+***************************************************************************************************************************************************
+
+
+UNFORMATED VIEW OF JSON OBJECT:
+
+
+{
+  "full_name": "Sakib Ali",
+  "first_name": "Sakib",
+  "last_name": "Ali",
+  "industry": "IT Services & Consulting",
+  "annual_salary": " 9.50 Lacs (expects:  10.0 Lacs)",
+  "curr_cmp": "Girikon Solutions Pvt Ltd",
+  "education": "BCA Ch Charan Singh University (CCSU), Meerut, 2020",
+  "skills": [
+    "Express",
+    "CSS",
+    "jQuery",
+    "Ajax",
+    "HTML",
+    "Node.js",
+    "React.js",
+    "Javascript",
+    "Laravel",
+    "PHP",
+    "MySQL",
+    "Django",
+    "SOAP",
+    "GIT",
+    "Rest",
+    "API",
+    "Python",
+    "JIRA",
+    "Mern Stack",
+    "Python Development",
+    "Fullstack Development",
+    "LAMP"
+  ],
+  "work_sum": "\nWork Summary: Work summary\nIndustry: IT Services & Consulting\nDepartment: Engineering - Software & QA\nRole: Full Stack Developer\nTechnical Skills: I am a fullstackdeveloper working with LAMP Stack (Laravel Framework) and Node.js, Express.js, React.js (MERNStack).\n",
+  "work_exp": [
+    {
+      "company_name": "Girikon Solutions Pvt Ltd",
+      "job_title": "Fullstack Developer",
+      "tenure": "Apr '23 till date ( 10m )",
+      "description": "\u2022 Developing front end website architecture. \u2022 Designing user interactions on web pages. \u2022 Developing back-end website applications. \u2022 Creating servers and databases for functionality. \u2022 Ensuring cross-platform optimization for mobile phones. \u2022 Ensuring responsiveness of applications. \u2022 Working alongside graphic designers for web design features. \u2022 Seeing through a project from conception to finished product. \u2022 Designing and developing APIs. \u2022 Meeting both technical and consumer needs. \u2022 Staying abreast of developments in web applications and programming languages."
+    },
+    {
+      "company_name": "Leadingdots Solutions Pvt Ltd",
+      "job_title": "Web Developer",
+      "tenure": "May '22 till Mar '23 ( 10m )",
+      "description": "Designed and developed web applications across multiple APIs, third-party integrations and databases. Passionate and hardworking with penchant for developing customized interfaces that factor in unique demands for accessibility, reachability and security."
+    },
+    {
+      "company_name": "Apponward Technologies",
+      "job_title": "Senior Php Developer",
+      "tenure": "Sep '19 till May '22 ( 2y 8m )",
+      "description": "I have good in hand experience in php language and laravel I am working in backend and i use php,python,django,laravel Skills : PHP, JQUERY, MYSQL, AJAX, LARAVEL, PAYMENT GATEWAYS, HTML, CSS, SOAP AND REST API'S, ANGULAR, \nJAVASCRIPT\n, CI,PYTHON,DJANGO,DJANGO REST FRAMEWORK my recent completed projects : https://www.urwagon.com/fly/public/ -> project to ship packages internationally (in laravel) https://flowmixx.com/ -> music website (backend in laravel and frontend in angular https://www.oxygentimes.com/ -> projects for comparing oxygen Concentrator"
+    }
+  ],
+  "it_skills": [
+    {
+      "Skill": "Laravel",
+      "Version": "9",
+      "Last Used": "2023",
+      "Experience": "4y"
+    },
+    {
+      "Skill": "Node\n.js",
+      "Version": "18.14",
+      "Last Used": "2023",
+      "Experience": "2y"
+    },
+    {
+      "Skill": "PHP",
+      "Version": "8",
+      "Last Used": "2023",
+      "Experience": "4y"
+    }
+  ],
+  "other_details": "\n        Date of Birth: 8 Nov 1998,\n        Gender: Male,\n        Marital Status: Single/unmarried,\n        Category: OBC - Creamy,\n        Physically Challenged: No\n\n"
+}
+
+****************************************************************************************************************************************************
